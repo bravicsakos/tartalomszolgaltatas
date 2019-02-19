@@ -9,6 +9,14 @@ zh xml hibák megkeresése
 deklaráló sor nem kell
 
 
-### DTD
+## DTD
 
-tartalommodell
+### tartalommodell
+- elemek
+- attribútumok
+
+### gyakorisági jellemzők
+- üres: pontosan 1
+- +: legalább 1
+- ?: 0 vagy 1
+- *: akárhányszor
