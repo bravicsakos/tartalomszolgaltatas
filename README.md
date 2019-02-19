@@ -11,11 +11,11 @@ deklaráló sor nem kell
 
 ## DTD
 
-### tartalommodell
+### Tartalommodell
 - elemek
 - attribútumok
 
-### gyakorisági jellemzők
+### Gyakorisági jellemzők
 - üres: pontosan 1
 - +: legalább 1
 - ?: 0 vagy 1
