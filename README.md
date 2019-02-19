@@ -7,3 +7,8 @@ https://drive.google.com/open?id=0B4b8DTKHyn6PfnpSN0VBR3FQemF1dGNqLWdmUlB4dEVoTn
 
 zh xml hibák megkeresése
 deklaráló sor nem kell
+
+
+## DTD
+
+tartalommodell
