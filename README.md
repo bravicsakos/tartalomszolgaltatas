@@ -1,4 +1,4 @@
-### tartalomszolgaltatas
+# tartalomszolgaltatas
 
 zhk összpontszám 50%
 
@@ -9,6 +9,6 @@ zh xml hibák megkeresése
 deklaráló sor nem kell
 
 
-## DTD
+### DTD
 
 tartalommodell
